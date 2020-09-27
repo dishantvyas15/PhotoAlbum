@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotoAlbum</string>
+    <string name="heading">Photo Album</string>
+    <string name="image">image</string>
+    <string name="prev">Previous</string>
+    <string name="next">Next</string>
+</resources>
